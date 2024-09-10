@@ -1,0 +1,51 @@
+html{
+    background-image: url(1000_F_143134352_oLaa3Dej0MwUnVrPs6GF1uIr2V9jGsWu.jpg);
+}
+body{
+    border-spacing: 1em 0.5em;
+}
+.tt{
+    border-style:double;
+    background-color:rgb(185, 77, 77);
+    height: auto;
+    width: 800px;
+    align-self: center;
+    margin: auto;
+    border-color: black;
+    border-spacing: 100px;
+    border-bottom-style: groove;
+    border-width: thick 20px;
+    font-family: "Lucida Handwriting", cursive;
+}
+.day1{
+    border-style:outset;
+    border: 4cm;
+    background-color:rgb(255, 255, 255);
+    height: auto;
+    width: 800px;
+    align-self: center;
+    margin: auto;
+    color: rgba(0, 0, 0, 0);
+    border-spacing: 100px;
+    border-color: black;
+}
+.day2{
+    border-style:dashed;
+    border: 4cm;
+    background-color:rgb(255, 255, 255);
+    height: auto;
+    width: 800px;
+    align-self: center;
+    margin: auto;
+    border-top-color: rgba(0, 0, 0, 0);
+    border-top: 10cm;
+    border-spacing: 100px;
+    border-color: black;
+    border-width: thick 10px;
+}
+.imag{
+    border-style: groove;
+    border-color: black;
+    border-width: 10px;
+    border-radius: 10px;
+}
